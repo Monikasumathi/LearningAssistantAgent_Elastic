@@ -4,7 +4,7 @@ import json
 import time
 
 ELASTICSEARCH_ENDPOINT = "https://my-elasticsearch-project-c0f5a6.es.us-central1.gcp.elastic.cloud:443"
-API_KEY = "LWI0dU01d0IwdjV3Znc3OU1YYnc6anppRXF1UjNsNGdBVTRKdW5VcWQ0UQ=="
+API_KEY = "YOUR_API_KEY"
 INDEX_NAME = "tech-learning-index"
 
 def fetch_search_labs_blogs():
